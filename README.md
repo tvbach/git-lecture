@@ -1,2 +1,2 @@
 # git-lecture
-bach lin
+bach 
